@@ -1,0 +1,24 @@
+body{
+    background-color: blue;
+}
+
+#zero{
+    color: darkgreen;
+}
+
+#add{
+    color: aqua;
+}
+
+#take{
+    color: gold;
+}
+
+#summ{
+    color: cyan;
+}
+
+#warning{
+    color: red;
+}
+
